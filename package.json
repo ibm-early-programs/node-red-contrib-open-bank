@@ -1,7 +1,7 @@
 {
   "name": "node-red-contrib-open-bank",
-  "version": "0.0.1",
-  "description": "A node exposing the Open Bank #BankOfApis",
+  "version": "0.0.2",
+  "description": "A node exposing the Blue Bank #BankOfApis",
   "dependencies": {
     "request": "^2.81.0"
   },
